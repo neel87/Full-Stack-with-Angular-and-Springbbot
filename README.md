@@ -1,12 +1,5 @@
 
-### Getting Started with Spring, Spring Boot and JPA
-- Spring Tutorial for Beginners - https://www.youtube.com/watch?v=edgZo2g-LTM
-- Spring Boot Tutorial for Beginners - https://www.youtube.com/watch?v=pcdpk3Yd1EA
-- JPA and Hibernate Tutorial for Beginners - https://www.youtube.com/watch?v=MaI0_XdpdP8
 
-## Course Overview
-
-### Introduction
 Developing your first full stack application with Angular and Spring Boot is fun.
 
 In this course, you will learn the basics of full stack development developing a Basic Todo Management Application using Angular, Spring Boot and Spring Security Frameworks.
@@ -15,21 +8,7 @@ You will build the application step by step - in more than 50 steps. This course
 
 You will be using Angular (Frontend Framework), TypeScript Basics, Angular Cli(To create Angular projects), Spring Boot (REST API Framework), Spring (Dependency Management),  Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
-### What You will learn
 
-- You will develop your first full stack application with Angular and Spring Boot
-- You will learn the basic of Angular - Angular Modules, Components, Data Binding and Routing
-- You will learn basics of building awesome frontend applications with Angular
-- You will be introduced to building great RESTful APIs with Spring Boot
-- You will learn to use Spring Security to configure Basic Authentication and JWT
-- You will learn to solve the challenges of connecting an Angular Frontend to a RESTful API
-- You will learn to connect REST API to JPA/Hibernate with Spring Boot
-- You will learn to use a wide variety of Spring Boot Starter Projects - Spring Boot Web, and Spring Boot Data JPA
-- You will understand the best practices in designing RESTful web services
-- You will develop a Todo Management Full Stack Application step by step with login and logout functionalities
-- You will learn the magic of Spring Boot - Auto Configuration, Spring Initializr and Starter Projects
-- You will understand how to make best use of Spring Boot Actuator and Spring Boot Developer Tools
-- You will understand and use the embedded servlet container options provided by Spring Boot
 
 ### Requirements
 
